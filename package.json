@@ -1,4 +1,5 @@
-"name": "nodejs-book-shoping",
+{
+  "name": "nodejs-book-shoping",
   "version": "1.0.0",
   "description": "Nodejs book Shoping site",
   "main": "app.js",
